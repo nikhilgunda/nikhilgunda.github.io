@@ -15,7 +15,7 @@ import {
   FiX,
   FiCoffee,
 } from "react-icons/fi";
-import { LuChefHat, LuUtensils } from "react-icons/lu";
+import { LuUtensils } from "react-icons/lu";
 import { FaStar } from "react-icons/fa";
 
 import heroRoom from "./assets/images/IMG_4847.jpeg";
@@ -148,7 +148,6 @@ export default function SSInnWebsite() {
   const features = [
     { label: "High-speed WiFi & Geyser", Icon: FiWifi },
     { label: "24/7 CCTV Security", Icon: FiVideo },
-    { label: "Self Cooking Facility", Icon: LuChefHat },
     { label: "Washing Machine", Icon: FiDroplet },
     { label: "Bike & Car Parking", Icon: FiTruck },
     { label: "Daily, Weekly & Monthly Stay", Icon: FiCalendar },
